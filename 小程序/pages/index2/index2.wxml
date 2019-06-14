@@ -1,0 +1,17 @@
+<swiper indicator-dots autoplay interval="3000" circular indicator-active-color="red">
+<swiper-item>
+<image src='../../icon/cs1.jpg'mode="widthFix"></image>
+</swiper-item>
+<swiper-item>
+<image src='../../icon/cs2.jpg'mode="widthFix"></image>
+</swiper-item>
+<swiper-item>
+<image src='../../icon/cs3.jpg'mode="widthFix"></image>
+</swiper-item>
+<swiper-item>
+<image src='../../icon/cs4.jpg'mode="widthFix"></image>
+</swiper-item>
+</swiper>
+
+
+ 
